@@ -14,6 +14,7 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "modern-normalize": "^1.1.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-easy-hooks": "https://github.com/tonichiga/react-easy-hooks.git",
